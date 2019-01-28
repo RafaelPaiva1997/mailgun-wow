@@ -1,0 +1,17 @@
+{
+  "db": {
+    "username": "rafaelpaiva",
+    "password": "rafael.9000",
+    "address": "ds161833.mlab.com",
+    "port": "61833",
+    "dbname": "framework"
+  },
+  "mailgun": {
+    "auth": {
+        "api_key": "9ffa9761230fabbd170df635bf195b36-2d27312c-8cc46760",
+        "domain": "sandboxddb70e926afb45fcb40b2d6c1c24340e.mailgun.org"
+    }
+  },
+  "address": "127.0.0.1",
+  "port": 8080
+}
